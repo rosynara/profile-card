@@ -51,7 +51,7 @@ p{
     width: 150px;
     height: 150px;
     background-size: cover;
-    background-position: 100% 5%;
+    background-position: 60% 5%;
     border-radius: 50%;
     border: 5px solid gray;
     border-style: none;
@@ -65,7 +65,7 @@ p{
     border-radius: 50%;
     border: 5px solid white;
     position: absolute;    
-    top: 20px; 
+    top: 90px; 
     right: 0px;
     transition: all 0.3s ease-in;
 }
